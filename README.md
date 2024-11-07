@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi I'm Albert
+### About me
+I'm a passionate software engineer with a First Class Honours Degree in Systems Engineering from the University of Warwick. I've worked on diverse projects, from AI-driven solutions to robotics, excelling in teamwork, project management, and innovation. With expertise in machine learning, neural networks, and MATLAB, I enjoy solving complex problems and delivering efficient solutions.
 
 <!--
 **Alberu/Alberu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
